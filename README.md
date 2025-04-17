@@ -46,5 +46,5 @@ I’m a backend engineer passionate about building scalable systems, automating 
 
 ## 📫 Reach Me
 
-- LinkedIn: [Wayne Puah](www.linkedin.com/in/wayne-puah)
+- LinkedIn: [Wayne Puah]([www.linkedin.com/in/wayne-puah](https://www.linkedin.com/in/wayne-puah/))
 - GitHub: [@waynepuah](https://github.com/vvx2)
